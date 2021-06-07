@@ -23,3 +23,9 @@ My name is '__main__' and I see True
 My name is '__main__' and I see False
 My name is '__main__' and I see False
 ```
+
+## Explanation
+
+This is a documented trap connected with just the main module. See this link for detailed explanation:
+
+http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html#executing-the-main-module-twice
